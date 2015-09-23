@@ -1,0 +1,5 @@
+C:\Users\Curtis\Downloads\TXTDrip.Utl.XMLLogging\TXTDrip.Utl.XMLLogging\bin\Debug\TXTDrip.Utl.XMLLogging.dll
+C:\Users\Curtis\Downloads\TXTDrip.Utl.XMLLogging\TXTDrip.Utl.XMLLogging\bin\Debug\TXTDrip.Utl.XMLLogging.pdb
+C:\Users\Curtis\Downloads\TXTDrip.Utl.XMLLogging\TXTDrip.Utl.XMLLogging\obj\Debug\ErrorLogger.csprojResolveAssemblyReference.cache
+C:\Users\Curtis\Downloads\TXTDrip.Utl.XMLLogging\TXTDrip.Utl.XMLLogging\obj\Debug\TXTDrip.Utl.XMLLogging.dll
+C:\Users\Curtis\Downloads\TXTDrip.Utl.XMLLogging\TXTDrip.Utl.XMLLogging\obj\Debug\TXTDrip.Utl.XMLLogging.pdb
